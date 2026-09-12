@@ -20,7 +20,7 @@ Computer Science (AI & ML) undergrad at VIT-AP, building agentic AI systems with
 
 <div align="center">
 
-[LinkedIn](https://linkedin.com/in/amarthya-14) · [GitHub](https://github.com/amarthya-14) · [Email](mailto:amarthyajonnalagadda2005@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/jonnalagadda-amarthya/) · [GitHub](https://github.com/amarthya-14) · [Email](mailto:amarthyajonnalagadda2005@gmail.com)
 
 </div>
 
