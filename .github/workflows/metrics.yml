@@ -1,8 +1,6 @@
 name: Generate Metrics Dashboard
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
   workflow_dispatch: {}
 
 jobs:
