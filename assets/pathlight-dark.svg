@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="210" viewBox="0 0 600 210" role="img" aria-label="PathLight">
+<style>
+@keyframes sweep{0%{transform:translateX(-120px)}60%,100%{transform:translateX(720px)}}
+@keyframes live{0%,100%{opacity:1}50%{opacity:.35}}
+.sweep{animation:sweep 6s ease-in-out infinite} .live{animation:live 1.6s ease-in-out infinite}
+</style>
+<defs>
+<linearGradient id="bar" x1="0" x2="1"><stop offset="0" stop-color="#a78bfa"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></linearGradient>
+<linearGradient id="shine" x1="0" x2="1"><stop offset="0" stop-color="#a78bfa" stop-opacity="0"/><stop offset=".5" stop-color="#a78bfa" stop-opacity=".10"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></linearGradient>
+<clipPath id="c"><rect x="1" y="1" width="598" height="208" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#c)">
+<rect width="600" height="210" fill="#11141b"/>
+<rect class="sweep" x="0" y="0" width="120" height="210" fill="url(#shine)"/>
+<rect x="0" y="0" width="600" height="3" fill="url(#bar)"/>
+</g>
+<rect x="0.5" y="0.5" width="599" height="209" rx="18" fill="none" stroke="#232836"/>
+<text x="28" y="54" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="-0.4" fill="#e6edf3">PathLight</text>
+<rect x="461" y="34" width="111" height="26" rx="13" fill="none" stroke="#232836"/>
+<circle class="live" cx="475" cy="47" r="3.5" fill="#a78bfa"/>
+<text x="485" y="51.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#9aa4b2">In progress</text>
+<text y="92" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#9aa4b2"><tspan x="28" dy="0">Autonomous career-intelligence platform. A multi-agent</tspan><tspan x="28" dy="22">LangGraph pipeline with rule checks before the LLM and MCP tools.</tspan></text>
+<rect x="28" y="140" width="92" height="28" rx="14" fill="#161a23" stroke="#232836"/><text x="41" y="158.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#9aa4b2">LangGraph</text><rect x="127.88" y="140" width="70" height="28" rx="14" fill="#161a23" stroke="#232836"/><text x="140.88" y="158.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#9aa4b2">Gemini</text><rect x="205.8" y="140" width="48" height="28" rx="14" fill="#161a23" stroke="#232836"/><text x="218.8" y="158.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#9aa4b2">MCP</text><rect x="261.76" y="140" width="77" height="28" rx="14" fill="#161a23" stroke="#232836"/><text x="274.76" y="158.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#9aa4b2">MongoDB</text>
+<text x="572" y="188" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" fill="#6e7681">github.com/amarthya-14/pathlight ↗</text>
+</svg>

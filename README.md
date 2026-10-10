@@ -1,46 +1,66 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Jonnalagadda%20Amarthya&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI/ML%20Engineer%20%C2%B7%20Full%20Stack%20Developer&descAlignY=60&descSize=16" width="100%" alt="header"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&duration=2500&color=8B5CF6&center=true&vCenter=true&width=560&lines=Agentic+AI+%7C+LangGraph+%2B+Gemini+%2B+MCP;Full-Stack%3A+Spring+Boot+%2C+MongoDB;Currently+building+PathLight" alt="Typing SVG" />
-
-</div>
-
-Computer Science (AI & ML) undergrad at VIT-AP, building agentic AI systems with LangGraph, Gemini, and MCP on top of full-stack experience in Spring Boot and MongoDB. AWS Certified Cloud Practitioner. Currently building **PathLight**, an autonomous career-intelligence platform.
-
-**PathLight** runs a multi-agent LangGraph pipeline (Discovery & Eligibility agents backed by the Gemini API) with rule-checks before invoking the LLM, an MCP server for sandboxed tool access, and a MongoDB backend with JWT auth and a 37-test suite. I've also built a quotation management app for a home-theatre business (Spring Boot, React, MongoDB, deployed on Azure) and a Hugging Face-powered recipe generator.
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,spring,mongodb,docker,aws,git,react&theme=dark" alt="Skills"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+  <img src="./assets/hero-light.svg" width="100%" alt="Jonnalagadda Amarthya — AI/ML Engineer · Full-Stack Developer">
+</picture>
 
 </div>
 
 <br/>
 
-<div align="center">
+I'm a Computer Science (AI & ML) undergrad at **VIT-AP**, building agentic AI systems with **LangGraph, Gemini and MCP** on top of full-stack experience in **Spring Boot and MongoDB**. AWS Certified Cloud Practitioner.
 
-[LinkedIn](https://www.linkedin.com/in/jonnalagadda-amarthya/) · [GitHub](https://github.com/amarthya-14) · [Email](mailto:amarthyajonnalagadda2005@gmail.com)
+### Selected work
 
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/amarthya-14/pathlight">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./assets/pathlight-dark.svg">
+          <img src="./assets/pathlight-light.svg" width="100%" alt="PathLight — autonomous career-intelligence platform">
+        </picture>
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://leanplate.vercel.app">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./assets/leanplate-dark.svg">
+          <img src="./assets/leanplate-light.svg" width="100%" alt="Leanplate — fat-loss planner built around a hostel mess menu">
+        </picture>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/amarthya-14/SM-Enterprices">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./assets/quotation-dark.svg">
+          <img src="./assets/quotation-light.svg" width="100%" alt="Quotation Manager — home-theatre business app on Azure">
+        </picture>
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/amarthya-14/Ai-Chef">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./assets/aichef-dark.svg">
+          <img src="./assets/aichef-light.svg" width="100%" alt="AI Chef — Hugging Face recipe generator">
+        </picture>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<br/>
+### Toolkit
 
-<details>
-<summary><sub>GitHub activity</sub></summary>
-<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,java,ts,js,react,nextjs,spring,mongodb,supabase,docker,aws,azure,git&theme=dark&perline=13">
+  <img src="https://skillicons.dev/icons?i=python,java,ts,js,react,nextjs,spring,mongodb,supabase,docker,aws,azure,git&theme=light&perline=13" alt="Python, Java, TypeScript, JavaScript, React, Next.js, Spring, MongoDB, Supabase, Docker, AWS, Azure, Git">
+</picture>
 
-<div align="center">
+<sub>Plus LangGraph · Gemini API · MCP · Hugging Face</sub>
 
-<img src="./github-metrics.svg" width="100%" alt="GitHub metrics dashboard" />
-<img src="https://raw.githubusercontent.com/amarthya-14/amarthya-14/main/profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D contribution graph" />
+### Say hello
 
-<sub>
-![Profile Views](https://komarev.com/ghpvc/?username=amarthya-14&color=grey&style=flat-square&label=views)
-![GitHub Stars](https://img.shields.io/github/stars/amarthya-14?color=grey&style=flat-square&label=stars)
-</sub>
-
-</div>
-</details>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" width="100%" alt="footer"/>
+[LinkedIn](https://www.linkedin.com/in/jonnalagadda-amarthya/) &nbsp;·&nbsp; [Email](mailto:amarthyajonnalagadda2005@gmail.com) &nbsp;·&nbsp; [Leanplate](https://leanplate.vercel.app)
