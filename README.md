@@ -20,9 +20,10 @@ I'm a Computer Science (AI & ML) undergrad at **VIT-AP**, building agentic AI sy
 
 ### Toolkit
 
-<img src="https://skillicons.dev/icons?i=python,java,ts,js,react,nextjs,spring,mongodb,supabase,docker,aws,azure,git&perline=13" alt="Python, Java, TypeScript, JavaScript, React, Next.js, Spring, MongoDB, Supabase, Docker, AWS, Azure, Git" />
-
-<sub>Plus LangGraph · Gemini API · MCP · Hugging Face</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/toolkit-dark.svg">
+  <img src="./assets/toolkit-light.svg" width="100%" alt="Toolkit — AI: LangGraph, Gemini API, MCP, Hugging Face · Languages: Python, Java, TypeScript, JavaScript · Web: React, Next.js, Spring Boot, Tailwind · Data & cloud: MongoDB, Supabase, Docker, AWS, Azure">
+</picture>
 
 ### Say hello
 

@@ -5,21 +5,21 @@
 .sweep{animation:sweep 6s ease-in-out infinite} .live{animation:live 1.6s ease-in-out infinite}
 </style>
 <defs>
-<linearGradient id="bar" x1="0" x2="1"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></linearGradient>
-<linearGradient id="shine" x1="0" x2="1"><stop offset="0" stop-color="#22d3ee" stop-opacity="0"/><stop offset=".5" stop-color="#22d3ee" stop-opacity=".10"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></linearGradient>
+<linearGradient id="bar" x1="0" x2="1"><stop offset="0" stop-color="#c9b48a"/><stop offset="1" stop-color="#c9b48a" stop-opacity="0"/></linearGradient>
+<linearGradient id="shine" x1="0" x2="1"><stop offset="0" stop-color="#c9b48a" stop-opacity="0"/><stop offset=".5" stop-color="#c9b48a" stop-opacity=".05"/><stop offset="1" stop-color="#c9b48a" stop-opacity="0"/></linearGradient>
 <clipPath id="c"><rect x="1" y="1" width="598" height="208" rx="18"/></clipPath>
 </defs>
 <g clip-path="url(#c)">
-<rect width="600" height="210" fill="#11141b"/>
+<rect width="600" height="210" fill="#121213"/>
 <rect class="sweep" x="0" y="0" width="120" height="210" fill="url(#shine)"/>
-<rect x="0" y="0" width="600" height="3" fill="url(#bar)"/>
+<rect x="28" y="0" width="64" height="1.5" fill="#c9b48a"/>
 </g>
-<rect x="0.5" y="0.5" width="599" height="209" rx="18" fill="none" stroke="#232836"/>
-<text x="28" y="54" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="-0.4" fill="#e6edf3">Quotation Manager</text>
-<rect x="483" y="34" width="89" height="26" rx="13" fill="none" stroke="#232836"/>
-<circle class="live" cx="497" cy="47" r="3.5" fill="#22d3ee"/>
-<text x="507" y="51.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#9aa4b2">Deployed</text>
-<text y="92" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#9aa4b2"><tspan x="28" dy="0">Quotation management for a home-theatre business —</tspan><tspan x="28" dy="22">built end to end and deployed on Azure.</tspan></text>
-<rect x="28" y="140" width="107" height="28" rx="14" fill="#161a23" stroke="#232836"/><text x="41" y="158.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#9aa4b2">Spring Boot</text><rect x="142.51999999999998" y="140" width="63" height="28" rx="14" fill="#161a23" stroke="#232836"/><text x="155.51999999999998" y="158.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#9aa4b2">React</text><rect x="213.11999999999998" y="140" width="77" height="28" rx="14" fill="#161a23" stroke="#232836"/><text x="226.11999999999998" y="158.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#9aa4b2">MongoDB</text><rect x="298.36" y="140" width="63" height="28" rx="14" fill="#161a23" stroke="#232836"/><text x="311.36" y="158.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#9aa4b2">Azure</text>
-<text x="572" y="188" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" fill="#6e7681">github.com/amarthya-14/SM-Enterprices ↗</text>
+<rect x="0.5" y="0.5" width="599" height="209" rx="18" fill="none" stroke="#262626"/>
+<text x="28" y="54" font-family="'Iowan Old Style', 'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif" font-size="27" font-weight="400" letter-spacing="-0.3" fill="#ece8e1">Quotation Manager</text>
+<rect x="483" y="34" width="89" height="26" rx="13" fill="none" stroke="#262626"/>
+<circle class="live" cx="497" cy="47" r="3" fill="#57534d"/>
+<text x="507" y="51.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#a19d96">Deployed</text>
+<text y="92" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#a19d96"><tspan x="28" dy="0">Quotation management for a home-theatre business —</tspan><tspan x="28" dy="22">built end to end and deployed on Azure.</tspan></text>
+<rect x="28" y="140" width="107" height="28" rx="14" fill="#151515" stroke="#262626"/><text x="41" y="158.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#a19d96">Spring Boot</text><rect x="142.51999999999998" y="140" width="63" height="28" rx="14" fill="#151515" stroke="#262626"/><text x="155.51999999999998" y="158.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#a19d96">React</text><rect x="213.11999999999998" y="140" width="77" height="28" rx="14" fill="#151515" stroke="#262626"/><text x="226.11999999999998" y="158.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#a19d96">MongoDB</text><rect x="298.36" y="140" width="63" height="28" rx="14" fill="#151515" stroke="#262626"/><text x="311.36" y="158.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#a19d96">Azure</text>
+<text x="572" y="188" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" fill="#6d6a65">github.com/amarthya-14/SM-Enterprices ↗</text>
 </svg>
